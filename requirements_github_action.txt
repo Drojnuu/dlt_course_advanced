@@ -1,1 +1,6 @@
+dlt
+requests
+time
+datetime
+os
 # please provide valid dependencies including dlt package
