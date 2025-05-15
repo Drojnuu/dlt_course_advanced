@@ -1,4 +1,5 @@
 dlt
+dlt[duckdb]
 requests
 datetime
 # please provide valid dependencies including dlt package
