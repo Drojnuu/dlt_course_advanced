@@ -1,5 +1,4 @@
 dlt
 requests
 datetime
-os
 # please provide valid dependencies including dlt package
